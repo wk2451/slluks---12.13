@@ -1,0 +1,23 @@
+@import "../../common/vendor.wxss";
+
+.page {
+  padding: 20rpx 5% 80rpx;
+}
+.goods_info {
+  width: 30%;
+  display: inline-block;
+  padding: 20rpx 0;
+}
+.order_info {
+  padding: 20rpx 0;
+}
+.pay ._button {
+  display: inline-block;
+  width: 250rpx;
+  float: left;
+  margin-left: 40rpx;
+}
+.order_status {
+  display: inline-block;
+  float: left;
+}
